@@ -31,4 +31,4 @@ Feel free to reach out to me through any of the following channels:
 
 - Email: [RiteshS05@outlook.com](mailto:RiteshS05@outlook.com) For Business Only
 - LinkedIn: [Ritesh Sachania](https://www.linkedin.com/in/riteshsachania1)
-- Twitter: [@1Berzerk](https://twitter.com/1Berzerk)
+- Twitter: [Berzerker_1](https://twitter.com/Berzerker_1)
