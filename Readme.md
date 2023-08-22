@@ -7,7 +7,7 @@
 | MusicBot (Discord)| Private | N/A | Beta - YT Support Only |
 | Moderation (Discord) | Private | N/A | In Development |
 | Mod Mail (Discord) | Private | N/A | In Development |
-| IP-Geo | Private - Legal Reasons | N/A | In Development |
+| IP-Geo | Private | N/A | In Development |
 
 ## Languages
 
