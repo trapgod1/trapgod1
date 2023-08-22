@@ -4,10 +4,10 @@
 
 | Project | Repository | Website | State |
 | ------- | ---------- | ------- | ----- |
-| MusicBot | Private | N/A | Beta - YT Support Only |
-| Moderation | Private | N/A | In Development |
-| Mod Mail | Private | N/A | Finished |
-| IP-Geo | Private - Legal Reasons | N/A | Finished |
+| MusicBot (Discord)| Private | N/A | Beta - YT Support Only |
+| Moderation (Discord) | Private | N/A | In Development |
+| Mod Mail (Discord) | Private | N/A | Finished |
+| IP-Geo (Discord) | Private - Legal Reasons | N/A | Finished |
 
 ## Languages
 
