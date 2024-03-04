@@ -41,4 +41,4 @@
 Feel free to reach out to me through any of the following channels:
 
 - Email: [TrapG0d@proton.me](mailto:TrapG0d@proton.me)
-- Discord: [tr4pgod.]
+- Discord: tr4pgod.
