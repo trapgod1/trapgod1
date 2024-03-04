@@ -36,10 +36,9 @@
   <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
 </div>
 
-## Contact Information
+## Contact Info
 
 Feel free to reach out to me through any of the following channels:
 
 - Email: [TrapG0d@proton.me](mailto:TrapG0d@proton.me)
-- LinkedIn: [Ritesh Sachania](https://www.linkedin.com/in/riteshsachania1)
-- Twitter: [Berzerker_1](https://twitter.com/Berzerker_1)
+- Discord: [tr4pgod.]
