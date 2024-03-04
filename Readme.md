@@ -4,10 +4,9 @@
 
 | Project | Repository | Website | State |
 | ------- | ---------- | ------- | ----- |
-| MusicBot (Discord)| Private | N/A | Beta - YT Support Only |
+| MusicBot (Discord)| Private | N/A | Beta - Back-end code in development |
 | Moderation (Discord) | Private | N/A | In Development |
 | Mod Mail (Discord) | Private | N/A | In Development |
-| IP-Geo | Private | N/A | In Development |
 
 ## Languages
 
