@@ -36,6 +36,6 @@
 
 Feel free to reach out to me through any of the following channels:
 
-- Email: [RiteshS05@outlook.com](mailto:TrapG0d@proton.me) For Business Only
+- Email: [TrapG0d@proton.me](mailto:TrapG0d@proton.me)
 - LinkedIn: [Ritesh Sachania](https://www.linkedin.com/in/riteshsachania1)
 - Twitter: [Berzerker_1](https://twitter.com/Berzerker_1)
