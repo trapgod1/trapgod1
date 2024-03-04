@@ -1,4 +1,4 @@
-# Ritesh (Berzerker)
+# Ritesh (Trap)
 
 ## 🚀 Currently Working On
 
