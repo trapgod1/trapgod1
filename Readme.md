@@ -1,4 +1,4 @@
-# Ritesh (Trap)
+# Trap
 
 ## 🚀 Currently Working On
 
