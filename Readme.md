@@ -47,7 +47,7 @@
 
 Feel free to reach out to me through any of the following channels:
 
-<a href="mailto:email@example.com">
+<a href="mailto:TrapG0d+Git@proton.me">
   <img src="https://img.shields.io/badge/proton%20mail-6D4AFF?style=for-the-badge&logo=protonmail&logoColor=white" alt="Proton Mail">
 </a>
 
