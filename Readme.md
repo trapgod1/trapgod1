@@ -4,7 +4,7 @@
 
 | Project | Repository | Website | State | Notes |
 | ------- | ---------- | ------- | ----- | ----- |
-|The Archive | [Public](https://github.com/trapgod1/thearchive) [Mirror](https://github.com/trapgod1/trapgod1.github.io) | [Site](https://thearchive.pages.dev/)[Mirror](https://trapgod1.github.io)| Indevelopment| |
+|The Archive | [Public](https://github.com/trapgod1/thearchive) | [Mirror](https://github.com/trapgod1/trapgod1.github.io) | [Site](https://thearchive.pages.dev/) | [Mirror](https://trapgod1.github.io)| Indevelopment| |
 | MusicBot (Discord)| Private | N/A | Finished | May come back to work on multithread processing |
 | Moderation (Discord) | Private | N/A | On Hold | Re-writing for discord.py 2.0 |
 | Mod Mail (Discord) | Private | N/A | On Hold | Re-writing for discord.py 2.0 |
